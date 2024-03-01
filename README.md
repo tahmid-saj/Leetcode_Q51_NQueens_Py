@@ -1,0 +1,1 @@
+# Leetcode_Q51_NQueens_Py
